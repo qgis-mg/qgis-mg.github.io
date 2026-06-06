@@ -1,27 +1,27 @@
 ---
 type: "page"
-title: "Community"
-subtitle: "QGIS ecosystem"
+title: "Communauté"
+subtitle: "Écosystème QGIS"
 draft: false
 sidebar: true
 ---
 
 {{< content-start >}}
 
-# QGIS User Group Ecosystem
+# Écosystème du Groupe Utilisateur QGIS Madagascar
 
-Discover companies, contributors, and products supporting QGIS.
+Découvrez les entreprises, contributeurs et produits qui soutiennent QGIS.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-half">}}
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Companies & Partners
+### Entreprises et partenaires
 
-- **[Company name]** — Services offered, location, contact
-- **[Company name]** — Services offered, location, contact
-- **[Company name]** — Services offered, location, contact
+- **[Nom de l’entreprise]** — Services proposés, localisation, contact
+- **[Nom de l’entreprise]** — Services proposés, localisation, contact
+- **[Nom de l’entreprise]** — Services proposés, localisation, contact
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -31,11 +31,11 @@ Discover companies, contributors, and products supporting QGIS.
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Plugins & Products
+### Plugins et produits
 
-- **[Plugin/product]** — Short description, link
-- **[Plugin/product]** — Short description, link
-- **[Plugin/product]** — Short description, link
+- **[Plugin/produit]** — Description courte, lien
+- **[Plugin/produit]** — Description courte, lien
+- **[Plugin/produit]** — Description courte, lien
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -47,11 +47,11 @@ Discover companies, contributors, and products supporting QGIS.
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Contributors & Volunteers
+### Contributeurs et bénévoles
 
-- **[Name]** — Role (events, training, outreach)
-- **[Name]** — Role (plugins, documentation)
-- **[Name]** — Role (community)
+- **[Nom]** — Rôle (événements, formation, sensibilisation)
+- **[Nom]** — Rôle (plugins, documentation)
+- **[Nom]** — Rôle (communauté)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -61,11 +61,11 @@ Discover companies, contributors, and products supporting QGIS.
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### How to Join
+### Comment rejoindre
 
-- Email: [community@example.com]
-- Join our chat: [link]
-- Follow updates: [social links]
+- Email : [communaute@example.com]
+- Rejoignez notre chat : [lien]
+- Suivez les actualités : [liens sociaux]
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

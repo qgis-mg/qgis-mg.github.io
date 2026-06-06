@@ -1,7 +1,7 @@
 ---
 type: "page"
-title: "About Us"
-subtitle: "Meet our community"
+title: "À propos"
+subtitle: "Rencontrez notre communauté"
 draft: false
 sidebar: true
 url: "/about-us/"
@@ -9,54 +9,54 @@ url: "/about-us/"
 
 {{< content-start >}}
 
-# About Us
+# À propos
 
-We are a QGIS User Group, committed to promoting open-source geospatial technology and supporting practitioners.
+Nous sommes le Groupe Utilisateur QGIS Madagascar, engagé dans la promotion des technologies géospatiales open source et le soutien aux praticiens.
 
-## Our Mission
+## Notre mission
 
-Our mission is to:
-- Foster collaboration among QGIS users
-- Promote knowledge sharing and best practices
-- Support the growth of open-source GIS
-- Contribute to the global QGIS community
-- Provide learning opportunities for all skill levels
+Notre mission est de :
+- Favoriser la collaboration entre les utilisateurs de QGIS
+- Promouvoir le partage de connaissances et les bonnes pratiques
+- Soutenir la croissance des SIG open source
+- Contribuer à la communauté QGIS mondiale
+- Offrir des opportunités d’apprentissage à tous les niveaux
 
-## Our Team
+## Notre équipe
 
-### Coordinators / Leadership
+### Coordination / Responsables
 
-- **Coordinator:** [Name]
-- **Regional/Local Leads:** [Names by region]
-- **Volunteers:** [Roles: outreach, events, training, comms]
+- **Coordinateur :** [Nom]
+- **Responsables régionaux/locaux :** [Noms par région]
+- **Bénévoles :** [Rôles : sensibilisation, événements, formation, communication]
 
-### Active Members
+### Membres actifs
 
-We have members from diverse backgrounds including:
-- GIS professionals
-- Environmental scientists
-- Urban planners
-- Researchers
-- Students
-- Hobbyists
+Nous avons des membres aux profils variés, notamment :
+- Professionnels SIG
+- Scientifiques de l’environnement
+- Urbanistes
+- Chercheurs
+- Étudiants
+- Passionnés
 
-## Our Community
+## Notre communauté
 
-We welcome everyone interested in QGIS, from complete beginners to experienced professionals. Our community values:
-- **Openness:** We embrace open-source principles and open collaboration
-- **Inclusivity:** Everyone is welcome regardless of background or skill level
-- **Learning:** We support continuous learning and knowledge sharing
-- **Contribution:** We encourage active participation and giving back to the community
+Nous accueillons toutes les personnes intéressées par QGIS, des débutants aux experts. Notre communauté valorise :
+- **Ouverture :** nous soutenons les principes open source et la collaboration ouverte
+- **Inclusion :** tout le monde est bienvenu, quel que soit son parcours ou son niveau
+- **Apprentissage :** nous encourageons l’apprentissage continu et le partage de connaissances
+- **Contribution :** nous favorisons la participation active et l’entraide
 
-## Contact Us
+## Contact
 
-- **Email:** [your-email@example.com]
-- **Mailing List:** [link to mailing list]
-- **Social Media:** [links to social media]
-- **Chat:** [link to chat platform if available]
+- **Email :** [votre-email@example.com]
+- **Liste de diffusion :** [lien vers la liste]
+- **Réseaux sociaux :** [liens vers les réseaux sociaux]
+- **Chat :** [lien vers la plateforme de discussion si disponible]
 
 ## Affiliations
 
-We are an official QGIS User Group recognized by the [QGIS Project](https://qgis.org). Learn more about QGIS User Groups [here](https://qgis.org/community/groups/).
+Nous sommes un Groupe Utilisateur QGIS officiel reconnu par le [Projet QGIS](https://qgis.org). En savoir plus sur les Groupes Utilisateurs QGIS [ici](https://qgis.org/community/groups/).
 
 {{< content-end >}}

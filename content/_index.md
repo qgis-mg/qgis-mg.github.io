@@ -1,27 +1,27 @@
 ---
 type: "page"
-title: "QGIS [Country]"
-subtitle: "Connecting QGIS users in our community"
+title: "QGIS Madagascar"
+subtitle: "Connecter les utilisateurs de QGIS à Madagascar"
 draft: false
 heroSize: "is-medium"
 heroLogo: "img/qgis_ch.png"
 HeroImage: "img/hegobg1.webp"
 HasBanner: true
 sidebar: true
-ButtonText: "Join Us!" 
+ButtonText: "Rejoignez-nous !"
 ButtonLink: "/events/"
 ---
 
 {{< content-start >}}
 
-## Welcome to the QGIS User Group
+## Bienvenue au Groupe Utilisateur QGIS Madagascar
 
-We are a community of QGIS users passionate about open-source geospatial technology. Our mission is to promote the use of QGIS, share knowledge, and support each other in our geospatial projects.
+Nous sommes une communauté d’utilisateurs de QGIS passionnés par les technologies géospatiales open source. Notre mission est de promouvoir l’utilisation de QGIS, de partager les connaissances et de nous soutenir dans nos projets géospatiaux.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-one-third left-title">}}
 
-## What We Do
+## Ce que nous faisons
 {{< column-end >}}
 
 
@@ -29,11 +29,11 @@ We are a community of QGIS users passionate about open-source geospatial technol
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}} 
 
-- Organize regular meetups and events
-- Share best practices and use cases
-- Provide support for QGIS users at all levels
-- Contribute to the QGIS project
-- Network with geospatial professionals
+- Organiser des rencontres et événements réguliers
+- Partager les bonnes pratiques et cas d’usage
+- Offrir du support aux utilisateurs QGIS de tous niveaux
+- Contribuer au projet QGIS
+- Développer le réseau des professionnels du géospatial
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -45,16 +45,16 @@ We are a community of QGIS users passionate about open-source geospatial technol
 {{< columns-start class="mb-6">}}
 {{< column-start class="is-flex-direction-column is-one-third left-title">}}
 
-## Join Us
+## Rejoignez-nous
 {{< column-end >}}
 
 {{< column-start class="is-flex-direction-column is-two-thirds">}}
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}} 
 
-Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join our events, participate in discussions, and help grow the community.
+Que vous soyez débutant ou utilisateur confirmé de QGIS, vous êtes les bienvenus. Participez à nos événements, aux échanges, et contribuez à faire grandir la communauté.
 
-[See our upcoming events](/events/)
+[Voir nos prochains événements](/events/)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -62,8 +62,8 @@ Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join
 {{< column-end >}}
 {{< columns-end >}}
 
-## Get Involved
+## Impliquez-vous
 
-We welcome new members and contributors. Check out our [Rules](/rules/) page to learn about our community guidelines, and visit [About Us](/about-us/) to meet our team and volunteers.
+Nous accueillons de nouveaux membres et contributeurs. Consultez notre page [Règles](/rules/) pour découvrir nos principes communautaires, et visitez [À propos](/about-us/) pour rencontrer notre équipe et nos bénévoles.
 
 {{< content-end >}}

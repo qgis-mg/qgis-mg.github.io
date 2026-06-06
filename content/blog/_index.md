@@ -1,7 +1,7 @@
 ---
 type: "page"
 title: "Blog"
-subtitle: "Tips, resources, and articles for QGIS users"
+subtitle: "Conseils, ressources et articles pour les utilisateurs de QGIS"
 draft: false
 heroSize: "is-medium"
 HeroImage: "img/hegobg1.webp"

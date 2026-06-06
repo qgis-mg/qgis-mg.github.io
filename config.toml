@@ -1,8 +1,8 @@
 # May be overwritten in .github/workflows/github-pages.yml or other config files
 # Update baseURL for your specific User Group deployment
-baseURL = 'https://usergroup.qgis.org/'
-languageCode = 'en-us'
-title = 'QGIS User Group Template'
+baseURL = 'https://madagascar.qgis.org/'
+languageCode = 'fr'
+title = 'QGIS Madagascar'
 theme = 'qgis-website-theme'
 # Default pagination.
 # Can override this when needed e.g. {{ range (.Paginator 5).Pages }}
@@ -102,7 +102,7 @@ uniNavHeaderLocationPrefix = "https://qgis.org"
 ## Url to news feed. After URL change you have to check 
 ## themes/qgis-website-theme/layouts/partials/contextmenu.html 
 ## file to ensure that it adresses the correct keys 
-newsfeed ='https://feed.qgis.org/?lang=en&json=1'
+newsfeed ='https://feed.qgis.org/?lang=fr&json=1'
 
 ## This will turn on Coockie popup. True to show popup
 cookiesstate = false
@@ -143,32 +143,32 @@ sectionPagesMenu = 'main'
 # See https://gohugo.io/content-management/menus/
 [menu]
 [[menu.main]]
-  name = "Home"
+  name = "Accueil"
   url = "/"
   weight = 10
 
 [[menu.main]]
-  name = "About Us"
+  name = "À propos"
   url = "/about-us/"
   weight = 20
 
 [[menu.main]]
-  name = "Case Studies"
+  name = "Études de cas"
   url = "/case-studies/"
   weight = 30
 
 [[menu.main]]
-  name = "Events"
+  name = "Événements"
   url = "/events/"
   weight = 40
 
 [[menu.main]]
-  name = "Community"
+  name = "Communauté"
   url = "/community/"
   weight = 50
 
 [[menu.main]]
-  name = "Tutorials"
+  name = "Tutoriels"
   url = "/tutorials/"
   weight = 60
 
@@ -178,7 +178,7 @@ sectionPagesMenu = 'main'
   weight = 70
 
 [[menu.main]]
-  name = "Rules"
+  name = "Règles"
   url = "/rules/"
   weight = 80
 
@@ -352,5 +352,4 @@ sectionPagesMenu = 'main'
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
 

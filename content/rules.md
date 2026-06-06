@@ -1,103 +1,103 @@
 ---
 type: "page"
-title: "Rules"
-subtitle: "Community guidelines and code of conduct"
+title: "Règles"
+subtitle: "Principes communautaires et code de conduite"
 draft: false
 sidebar: true
 ---
 
 {{< content-start >}}
 
-# Rules and Guidelines
+# Règles et directives
 
-To ensure a welcoming and productive environment for all members, we ask everyone to follow these guidelines.
+Afin de garantir un environnement accueillant et productif pour tous les membres, nous demandons à chacun de suivre ces directives.
 
-## Code of Conduct
+## Code de conduite
 
-### Be Respectful
+### Soyez respectueux
 
-- Treat all members with respect and courtesy
-- Welcome newcomers and help them feel included
-- Value diverse perspectives and experiences
-- Listen actively and thoughtfully
+- Traitez tous les membres avec respect et courtoisie
+- Accueillez les nouveaux et aidez-les à se sentir inclus
+- Valorisez la diversité des points de vue et des expériences
+- Écoutez activement et avec attention
 
-### Be Collaborative
+### Soyez collaboratifs
 
-- Share knowledge and resources freely
-- Provide constructive feedback
-- Help others learn and grow
-- Acknowledge the contributions of others
+- Partagez librement les connaissances et ressources
+- Donnez des retours constructifs
+- Aidez les autres à apprendre et progresser
+- Reconnaissez les contributions des autres
 
-### Be Professional
+### Soyez professionnels
 
-- Keep discussions focused and on-topic
-- Avoid harassment, discrimination, or offensive behavior
-- Respect privacy and confidentiality
-- Use appropriate language
+- Gardez les discussions ciblées et pertinentes
+- Évitez le harcèlement, la discrimination ou les comportements offensants
+- Respectez la vie privée et la confidentialité
+- Utilisez un langage approprié
 
-## Participation Guidelines
+## Directives de participation
 
-### Meetings and Events
+### Réunions et événements
 
-- Register for events when required
-- Arrive on time
-- Participate actively and constructively
-- Silence mobile devices during presentations
+- Inscrivez-vous aux événements lorsque nécessaire
+- Arrivez à l’heure
+- Participez activement et de façon constructive
+- Mettez les téléphones en silencieux pendant les présentations
 
-### Online Communication
+### Communication en ligne
 
-- Be clear and concise in communications
-- Stay on topic in discussion channels
-- Use appropriate channels for different topics
-- Respect others' time and attention
+- Soyez clairs et concis dans vos communications
+- Restez dans le sujet sur les canaux de discussion
+- Utilisez les canaux appropriés selon le sujet
+- Respectez le temps et l’attention des autres
 
-### Content Sharing
+### Partage de contenu
 
-- Share only content you have rights to share
-- Give proper attribution to sources
-- Respect intellectual property rights
-- Follow open-source licensing principles
+- Partagez uniquement du contenu que vous êtes autorisé à diffuser
+- Citez correctement vos sources
+- Respectez les droits de propriété intellectuelle
+- Respectez les principes des licences open source
 
-## Enforcement
+## Application
 
-### Reporting Issues
+### Signaler un problème
 
-If you experience or witness behavior that violates these guidelines:
-1. Contact any board member or organizer
-2. Send an email to [conduct@example.com]
-3. All reports will be handled confidentially
+Si vous subissez ou observez un comportement qui enfreint ces directives :
+1. Contactez un membre du bureau ou un organisateur
+2. Envoyez un email à [conduite@example.com]
+3. Tous les signalements seront traités de manière confidentielle
 
-### Consequences
+### Conséquences
 
-Violations may result in:
-- Warning and request to change behavior
-- Temporary suspension from events
-- Permanent removal from the group
+Les infractions peuvent entraîner :
+- Un avertissement et une demande de changement de comportement
+- Une suspension temporaire des événements
+- Une exclusion définitive du groupe
 
-## Membership
+## Adhésion
 
-### Joining
+### Rejoindre
 
-- Membership is open to anyone interested in QGIS
-- No fees required (or specify if applicable)
-- Register via [registration link/process]
+- L’adhésion est ouverte à toute personne intéressée par QGIS
+- Aucun frais requis (ou préciser le cas échéant)
+- Inscription via [lien/processus d’inscription]
 
-### Responsibilities
+### Responsabilités
 
-As a member, you are expected to:
-- Follow these rules and guidelines
-- Participate constructively
-- Support the group's mission
-- Contribute when able
+En tant que membre, vous vous engagez à :
+- Respecter ces règles et directives
+- Participer de manière constructive
+- Soutenir la mission du groupe
+- Contribuer selon vos possibilités
 
-## Amendments
+## Modifications
 
-These rules may be updated from time to time. Members will be notified of significant changes.
+Ces règles peuvent être mises à jour périodiquement. Les membres seront informés des changements importants.
 
-**Last updated:** [Date]
+**Dernière mise à jour :** [Date]
 
-## Questions?
+## Questions ?
 
-If you have questions about these rules, contact us at [contact@example.com]
+Si vous avez des questions sur ces règles, contactez-nous à [contact@example.com]
 
 {{< content-end >}}
