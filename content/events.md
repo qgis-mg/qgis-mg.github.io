@@ -1,27 +1,27 @@
 ---
 type: "page"
-title: "Events"
-subtitle: "Upcoming and past events"
+title: "Événements"
+subtitle: "Événements à venir et passés"
 draft: false
 sidebar: true
 ---
 
 {{< content-start >}}
 
-# Events
+# Événements
 
-Stay updated with our upcoming meetups, workshops, and conferences. Join us to learn, share, and network with fellow QGIS enthusiasts.
+Restez informés de nos prochaines rencontres, ateliers et conférences. Rejoignez-nous pour apprendre, partager et échanger avec d'autres passionnés de QGIS.
 
-## Upcoming Events
+## Événements à venir
 
 {{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-2" >}}
-### QGIS User Group Meetup (Placeholder)
+### Rencontre du Groupe d'utilisateurs QGIS (exemple)
 
-When: [Date]  
-Where: [City / Online]
+Quand : [Date]  
+Où : [Ville / En ligne]
 
-{{< button class = "is-primary1" link = "https://usergroup.qgis.org/" text = "Learn more" >}} 
+{{< button class = "is-primary1" link = "https://usergroup.qgis.org/" text = "En savoir plus" >}} 
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
@@ -36,17 +36,17 @@ Where: [City / Online]
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 
-### Regular Meetups
+### Rencontres régulières
 
-We organize regular meetups where members can:
-- Share their latest QGIS projects
-- Learn new techniques and workflows
-- Get help with QGIS challenges
-- Network with other users
+Nous organisons des rencontres régulières où les membres peuvent :
+- Présenter leurs derniers projets QGIS
+- Découvrir de nouvelles techniques et méthodes de travail
+- Obtenir de l'aide sur des problématiques QGIS
+- Échanger avec d'autres utilisateurs
 
-**When:** [Add your meeting schedule]  
-**Where:** [Add your meeting location/online platform]  
-**Registration:** [Add registration information]
+**Quand :** [Indiquez votre calendrier de rencontres]  
+**Où :** [Indiquez le lieu ou la plateforme en ligne]  
+**Inscription :** [Indiquez les informations d'inscription]
 
 
 {{< rich-content-end >}}
@@ -57,16 +57,16 @@ We organize regular meetups where members can:
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Workshops & Training
+### Ateliers et formations
 
-We regularly host hands-on workshops covering:
-- QGIS basics for beginners
-- Advanced analysis techniques
-- Plugin development
-- Cartography and visualization
-- Data processing workflows
+Nous organisons régulièrement des ateliers pratiques portant sur :
+- Les bases de QGIS pour les débutants
+- Les techniques d'analyse avancées
+- Le développement d'extensions
+- La cartographie et la visualisation
+- Les flux de traitement de données
 
-Check back regularly for upcoming workshop announcements.
+Revenez régulièrement pour découvrir les prochains ateliers.
 
 
 {{< rich-content-end >}}
@@ -74,16 +74,16 @@ Check back regularly for upcoming workshop announcements.
 {{< column-end >}}
 {{< columns-end >}}
 
-## Past Events
+## Événements passés
 
-[Add information about past events, presentations, or links to recordings]
+[Ajoutez ici des informations sur les événements passés, les présentations ou des liens vers les enregistrements]
 
 
 {{< rich-box-start icon="💁" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-1" >}}
-##### Get Involved
+##### Impliquez-vous
 
-Want to present at our next meetup or organize an event? Contact us at [your-contact-email]
+Vous souhaitez intervenir lors de notre prochaine rencontre ou organiser un événement ? Contactez-nous à [votre-email-de-contact]
 
 
 {{< rich-content-end >}}

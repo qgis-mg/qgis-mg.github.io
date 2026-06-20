@@ -3,47 +3,47 @@
     {
       "type": "menu",
       "settings": {
-        "name": "QGIS [Country]",
+        "name": "QGIS Madagascar",
         "children": [
           {
             "type": "second-menu",
             "settings": {
-              "name": "Home",
+              "name": "Accueil",
               "href": "/"
             }
           },
           {
             "type": "second-menu",
             "settings": {
-              "name": "About Us",
+              "name": "À propos",
               "href": "/about-us/"
             }
           },
           {
             "type": "second-menu",
             "settings": {
-              "name": "Case Studies",
+              "name": "Études de cas",
               "href": "/case-studies/"
             }
           },
           {
             "type": "second-menu",
             "settings": {
-              "name": "Events",
+              "name": "Événements",
               "href": "/events/"
             }
           },
           {
             "type": "second-menu",
             "settings": {
-              "name": "Community",
+              "name": "Communauté",
               "href": "/community/"
             }
           },
           {
             "type": "second-menu",
             "settings": {
-              "name": "Tutorials",
+              "name": "Tutoriels",
               "href": "/tutorials/"
             }
           },
@@ -57,7 +57,7 @@
           {
             "type": "second-menu",
             "settings": {
-              "name": "Rules",
+              "name": "Règlement",
               "href": "/rules/"
             }
           }
