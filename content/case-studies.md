@@ -30,7 +30,7 @@ Mise en avant de projets, de réalisations et de retours d'impact de la communau
 {{< rich-content-start themeClass="coloring-1" >}}
 ##### Proposer une étude de cas
 
-Vous avez un projet à mettre en avant ? Partagez les détails à [case-studies@exemple.com].
+Vous avez un projet à mettre en avant ? Partagez les détails à qgismg@googlegroups.com.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
