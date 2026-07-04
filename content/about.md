@@ -24,13 +24,10 @@ Notre mission est de :
 
 ## Notre équipe
 
-### Coordination / Direction
+- **Représentante :** Angela Tarimy
+- **Membres :** Dolly Andriatsiferana, Dominique Rakotonirina, Lova Andriarimalala
 
-- **Coordinateur·rice :** [Nom]
-- **Responsables régionaux/locaux :** [Noms par région]
-- **Bénévoles :** [Rôles : communication, événements, formation, sensibilisation]
-
-### Membres actifs
+<!-- ### Membres actifs
 
 Nos membres viennent d'horizons variés, notamment :
 - Professionnels SIG
@@ -38,7 +35,7 @@ Nos membres viennent d'horizons variés, notamment :
 - Urbanistes
 - Chercheurs
 - Étudiants
-- Passionnés
+- Passionnés -->
 
 ## Notre communauté
 
@@ -50,10 +47,10 @@ Nous accueillons toute personne intéressée par QGIS, du débutant complet au p
 
 ## Contactez-nous
 
-- **Email :** [votre-email@exemple.com]
-- **Liste de diffusion :** [lien vers la liste de diffusion]
+- **Email :** qgismg@googlegroups.com
+<!-- - **Liste de diffusion :** [lien vers la liste de diffusion]
 - **Réseaux sociaux :** [liens vers les réseaux sociaux]
-- **Chat :** [lien vers la plateforme de discussion, si disponible]
+- **Chat :** [lien vers la plateforme de discussion, si disponible] -->
 
 ## Affiliations
 

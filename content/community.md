@@ -10,14 +10,14 @@ sidebar: true
 
 # Écosystème du Groupe d'utilisateurs QGIS
 
-Découvrez les entreprises, les contributeurs et les produits qui soutiennent QGIS.
+Découvrez les contributeurs qui soutiennent QGIS à Madagascar.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-half">}}
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Entreprises et partenaires
+<!-- ### Entreprises et partenaires
 
 - **[Nom de l'entreprise]** — Services proposés, localisation, contact
 - **[Nom de l'entreprise]** — Services proposés, localisation, contact
@@ -45,13 +45,14 @@ Découvrez les entreprises, les contributeurs et les produits qui soutiennent QG
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-half">}}
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1" >}}
+{{< rich-content-start themeClass="coloring-1" >}} -->
 
 ### Contributeurs et bénévoles
 
-- **[Nom]** — Rôle (événements, formation, sensibilisation)
-- **[Nom]** — Rôle (extensions, documentation)
-- **[Nom]** — Rôle (communauté)
+- **Angela Tarimy** — Représentante
+- **Dolly Andriatsiferana** — Membre
+- **Dominique Rakotonirina** — Membre
+- **Lova Andriarimalala** — Membre
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -63,9 +64,9 @@ Découvrez les entreprises, les contributeurs et les produits qui soutiennent QG
 
 ### Comment nous rejoindre
 
-- Email : [communaute@exemple.com]
-- Rejoignez notre chat : [lien]
-- Suivez les actualités : [liens vers les réseaux sociaux]
+- Email : qgismg@googlegroups.com
+- [Suivez les actualités](/blog/)
+<!-- - Rejoignez notre chat : [lien] -->
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
