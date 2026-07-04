@@ -168,10 +168,10 @@ sectionPagesMenu = 'main'
   url = "/community/"
   weight = 50
 
-[[menu.main]]
-  name = "Tutoriels"
-  url = "/tutorials/"
-  weight = 60
+# [[menu.main]]
+#   name = "Tutoriels"
+#   url = "/tutorials/"
+#   weight = 60
 
 [[menu.main]]
   name = "Blog"
