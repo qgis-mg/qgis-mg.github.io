@@ -4,7 +4,7 @@ title: "QGIS Madagascar"
 subtitle: "Connecter les utilisateurs de QGIS au sein de notre communauté"
 draft: false
 heroSize: "is-medium"
-heroLogo: "img/qgis_ch.png"
+heroLogo: "img/qgismg.png"
 HeroImage: "img/hegobg1.webp"
 HasBanner: true
 sidebar: true
