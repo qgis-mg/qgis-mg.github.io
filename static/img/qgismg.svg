@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="128px"
+   height="128px"
+   viewBox="0 0 128 128"
+   enable-background="new 0 0 128 128"
+   xml:space="preserve"
+   sodipodi:docname="qgismg_2.svg"
+   inkscape:export-filename="qgismg_2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs4"><mask
+     id="a"><circle
+       cx="256"
+       cy="256"
+       r="256"
+       fill="#ffffff"
+       id="circle1" /></mask><linearGradient
+     id="SVGID_2_-5"
+     gradientUnits="userSpaceOnUse"
+     x1="365.46191"
+     y1="-221.14549"
+     x2="363.59229"
+     y2="-98.226997"
+     gradientTransform="matrix(0.80193455,0,0,-0.80193455,-228.06908,-60.941937)">
+	<stop
+   offset="0"
+   style="stop-color:#589632"
+   id="stop3-1" />
+	<stop
+   offset="1"
+   style="stop-color:#93B023"
+   id="stop4-7" />
+</linearGradient><linearGradient
+     id="linearGradient6"
+     gradientUnits="userSpaceOnUse"
+     x1="402.52441"
+     y1="-220.87061"
+     x2="400.64789"
+     y2="-97.502296"
+     gradientTransform="matrix(1,0,0,-1,-300.5195,-92.5547)">
+	<stop
+   offset="0"
+   style="stop-color:#589632"
+   id="stop1-1" />
+	<stop
+   offset="1"
+   style="stop-color:#93B023"
+   id="stop2-1" />
+</linearGradient></defs><sodipodi:namedview
+   id="namedview4"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="4.7382813"
+   inkscape:cx="-1.2662819"
+   inkscape:cy="17.622424"
+   inkscape:window-width="2560"
+   inkscape:window-height="1494"
+   inkscape:window-x="-11"
+   inkscape:window-y="-11"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="402.5244"
+   y1="-220.8706"
+   x2="400.6479"
+   y2="-97.5023"
+   gradientTransform="matrix(1,0,0,-1,-300.5195,-92.5547)">
+	<stop
+   offset="0"
+   style="stop-color:#589632"
+   id="stop1" />
+	<stop
+   offset="1"
+   style="stop-color:#93B023"
+   id="stop2" />
+</linearGradient>
+
+
+<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="365.4619"
+   y1="-221.1455"
+   x2="363.5923"
+   y2="-98.227"
+   gradientTransform="matrix(0.93562873,0,0,-0.93562873,-275.26536,-79.491184)">
+	<stop
+   offset="0"
+   style="stop-color:#589632"
+   id="stop3" />
+	<stop
+   offset="1"
+   style="stop-color:#93B023"
+   id="stop4" />
+</linearGradient>
+
+
+<polygon
+   fill="#ee7913"
+   points="52.613,72.746 68.613,88.548 68.613,69.625 86.891,69.625 71.697,54.625 52.613,54.625 "
+   id="polygon1"
+   transform="matrix(0.80193455,0,0,0.80193455,12.927889,13.280874)" /><polygon
+   fill="url(#SVGID_1_)"
+   points="107.143,126.625 126.613,126.625 126.613,109.057 94.488,77.625 76.613,77.625 76.613,96.033 "
+   id="polygon2"
+   style="fill:url(#SVGID_1_)"
+   transform="matrix(0.80193455,0,0,0.80193455,12.927889,13.280874)" /><polygon
+   fill="#f0e64a"
+   points="68.613,88.548 76.613,96.033 76.613,77.625 94.488,77.625 86.891,69.625 68.613,69.625 "
+   id="polygon3"
+   transform="matrix(0.80193455,0,0,0.80193455,12.927889,13.280874)" /><path
+   id="path4"
+   style="fill:url(#SVGID_2_-5);stroke-width:0.801935"
+   d="M 64.130859 15.039062 C 60.308005 15.038958 56.608814 15.388028 53.068359 16.056641 A 27.682676 27.682676 0 0 1 61.291016 32.103516 C 62.328275 31.999304 63.381026 31.947266 64.443359 31.947266 C 81.332902 31.947266 94.78125 45.403503 94.78125 63.244141 C 94.78125 66.146342 94.419963 68.936449 93.751953 71.582031 L 109.24023 87.068359 C 113.23306 80.070679 115.4668 71.936657 115.4668 63.125 C 115.4668 35.627467 93.52417 15.039063 64.130859 15.039062 z M 13.605469 54.857422 C 13.158939 57.528054 12.927734 60.288737 12.927734 63.125 C 12.927734 90.891981 34.870324 111.75195 64.128906 111.75195 C 71.680724 111.75195 77.015532 110.57436 82.607422 108.73633 L 68.199219 94.71875 C 67.264965 94.91281 66.7818 94.845703 64.443359 94.845703 C 47.851505 94.845703 33.717976 81.317035 33.480469 63.695312 A 27.682676 27.682676 0 0 1 13.605469 54.857422 z " /><polygon
+   opacity="0.15"
+   fill="#ffffff"
+   enable-background="new    "
+   points="126.613,109.057 126.613,126.625 53.083,54.625 71.697,54.625 "
+   id="polygon4"
+   transform="matrix(0.80193455,0,0,0.80193455,12.927889,13.280874)" /><g
+   id="g5"
+   transform="matrix(0.80235294,0,0,0.80235294,7.7596977,9.5846524)"><g
+     mask="url(#a)"
+     id="g3"
+     transform="matrix(0.10140149,0,0,0.10140149,6.6042867,6.9825598)"><path
+       fill="#eeeeee"
+       d="M 0,0 H 167 L 212.6,257.6 167.1,512 H 0 Z"
+       id="path1" /><path
+       fill="#d80027"
+       d="M 167,0 H 512 V 256 L 335.3,309.5 166.9,256 Z"
+       id="path2" /><path
+       fill="#6da544"
+       d="M 167,256 H 512 V 512 H 167 Z"
+       id="path3" /></g></g></svg>
